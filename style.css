@@ -2255,3 +2255,8 @@ html {
     display: block !important;
     z-index: 10000000 !important;
 }
+/* for contact page map height decrease */
+
+#contact{
+  height: 18rem;
+}
